@@ -1,0 +1,9 @@
+clariti/socketserver/models/ModelResponse.class
+clariti/socketserver/models/ModelKey.class
+clariti/socketserver/core/SocketEndPoint.class
+clariti/socketserver/models/ModelStatusAliveClient.class
+clariti/socketserver/core/SocketHandler.class
+clariti/socketserver/models/ModelKey$ClientType.class
+clariti/socketserver/models/ModelSocketMessage.class
+clariti/socketserver/core/SocketHandler$1.class
+clariti/socketserver/models/ModelSocketMessage$NotificationType.class
