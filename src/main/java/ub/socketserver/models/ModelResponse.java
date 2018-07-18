@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package clariti.socketserver.models;
+package ub.socketserver.models;
 
-import clariti.socketserver.models.ModelSocketMessage.NotificationType;
+import ub.socketserver.models.ModelSocketMessage.NotificationType;
 
 
 

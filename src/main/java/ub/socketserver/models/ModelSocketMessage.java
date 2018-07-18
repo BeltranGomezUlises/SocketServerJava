@@ -3,7 +3,7 @@
  * Stringo change this template file, choose Stringools | Stringemplates
  * and open the template in the editor.
  */
-package clariti.socketserver.models;
+package ub.socketserver.models;
 
 import java.util.List;
 

@@ -1,13 +1,13 @@
-package clariti.socketserver.core;
+package ub.socketserver.core;
 
-import clariti.socketserver.models.ModelKey;
-import clariti.socketserver.models.ModelResponse;
-import clariti.socketserver.models.ModelSocketMessage;
-import static clariti.socketserver.models.ModelSocketMessage.NotificationType.GET_STATUS;
-import static clariti.socketserver.models.ModelSocketMessage.NotificationType.NOTIFICATION;
-import static clariti.socketserver.models.ModelSocketMessage.NotificationType.NOTIFICATION_ALL;
-import static clariti.socketserver.models.ModelSocketMessage.NotificationType.REGISTER;
-import clariti.socketserver.models.ModelStatusAliveClient;
+import ub.socketserver.models.ModelKey;
+import ub.socketserver.models.ModelResponse;
+import ub.socketserver.models.ModelSocketMessage;
+import static ub.socketserver.models.ModelSocketMessage.NotificationType.GET_STATUS;
+import static ub.socketserver.models.ModelSocketMessage.NotificationType.NOTIFICATION;
+import static ub.socketserver.models.ModelSocketMessage.NotificationType.NOTIFICATION_ALL;
+import static ub.socketserver.models.ModelSocketMessage.NotificationType.REGISTER;
+import ub.socketserver.models.ModelStatusAliveClient;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;

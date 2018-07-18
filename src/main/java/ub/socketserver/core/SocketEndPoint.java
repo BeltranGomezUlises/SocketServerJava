@@ -1,6 +1,6 @@
-package clariti.socketserver.core;
+package ub.socketserver.core;
 
-import clariti.socketserver.models.ModelSocketMessage;
+import ub.socketserver.models.ModelSocketMessage;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
 import javax.websocket.OnClose;
